@@ -29,3 +29,6 @@ var gender = prompt('What is your gender?')
 var feedback = prompt('Feedback:') 
 alert('Thanks for your time'+ name) 
 ```
+##### Reference
+Notes: w3school.com <br>
+Code: codeavengers.com <br>
