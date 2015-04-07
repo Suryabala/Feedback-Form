@@ -30,5 +30,5 @@ var feedback = prompt('Feedback:')
 alert('Thanks for your time'+ name) 
 ```
 ##### Reference
-Notes: w3school.com <br>
+Notes: w3schools.com <br>
 Code: codeavengers.com <br>
